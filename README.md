@@ -45,11 +45,8 @@ Key analyses include:
 
 ### 3. Modeling  
 Predictive models used include:  
-- Logistic Regression  
-- Random Forest  
-- Gradient Boosting / XGBoost  
-- (Optional) Neural Networks  
-
+- Regression
+- 
 Evaluation metrics:  
 - Accuracy  
 - Precision & Recall  
@@ -73,10 +70,8 @@ We examine which factors most influence delay likelihood, such as:
 - Longer routes show moderate correlation with delays.
 
 ## 🛠️ Tech Stack  
-- **Python**  
-- **Pandas**, **NumPy**, **Scikit-Learn**  
-- **Matplotlib**, **Seaborn**, **Plotly**  
-- **Jupyter Notebook / Colab**
+- **ElasticSearch/ElasticCloud**  
+- **Kibana**
 
 ## [📂 DATASET USED]
 (https://www.kaggle.com/datasets/jimschacko/airlines-dataset-to-predict-a-delay/data)
