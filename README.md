@@ -46,7 +46,7 @@ Key analyses include:
 ### 3. Modeling  
 Predictive models used include:  
 - Regression
-- 
+  
 Evaluation metrics:  
 - Accuracy  
 - Precision & Recall  
